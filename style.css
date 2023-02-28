@@ -1,0 +1,15 @@
+body {
+text-align: center;
+background-image:url(hutaolinda.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+margin-top:150px;
+margin-left:150px;
+margin-right:150px;
+}
+input {text-align: center; font-size: 30px;}
+h1 {
+font-size:50px;
+color:white;
+font-family: cursive;
+text-decoration-line: underline;}
